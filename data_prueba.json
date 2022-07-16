@@ -43,10 +43,5 @@
         "alumno": "Carla",
         "nota": 10,
         "ranking": 1
-    },
-    {
-        "alumno": "Giorgia",
-        "nota": 9.8,
-        "ranking": 2
     }
 ]
